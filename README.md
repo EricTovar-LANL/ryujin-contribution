@@ -1,7 +1,7 @@
 O4636 LANL contribution to ryujin
 ======
 
-[Ryujin[(https://github.com/conservation-laws/ryujin) is a high-performance high-order collocation-type 
+[Ryujin](https://github.com/conservation-laws/ryujin) is a high-performance high-order collocation-type 
 finite-element
 solver for conservation equations such as the compressible Navier-Stokes
 and Euler equations of gas dynamics. The solver is based on the [convex
